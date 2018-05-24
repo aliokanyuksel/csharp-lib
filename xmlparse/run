@@ -1,0 +1,2 @@
+xmlparse$ mcs app.cs
+xmlparse$ ./app.exe params.xml 
